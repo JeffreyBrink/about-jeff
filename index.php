@@ -5,6 +5,6 @@
 		<title>About Jeff</title>
 	</head>
 	<body>
-		<h1>About JeffD</h1>
+		<h1>About Jeff</h1>
 	</body>
 </html>
