@@ -9,4 +9,5 @@
 	</head>
 	<body>
 		<h1><b>About Jeff</b></h1>
+		<img src="htmlstud.jpg" alt=" gettin ladies">
 </html>
