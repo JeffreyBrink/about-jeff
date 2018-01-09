@@ -27,11 +27,11 @@
 			<p>
 			I have lived in 6 different states:
 			<ul>
-				New Mexico
-				<br>Colorado
-				<br>California
-				<br>Florida
-				<br>Missouri
-				North Carolina
-				</ul>
+				<li>New Mexico</li>
+				<br><li>Colorado</li>
+				<br><li>California</li>
+				<br><li>Florida</li>
+				<br><li>Missouri</li>
+				<br><li>North Carolina</li>
+			</ul>
 </html>
